@@ -1,0 +1,5 @@
+# Virtual Enigma Machine — Dependencies
+# Core simulation (enigma.py) has NO external dependencies.
+# Only needed for running tests.
+
+pytest>=7.0
